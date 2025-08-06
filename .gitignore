@@ -1,0 +1,18 @@
+# Archivos y carpetas de CLion/JetBrains
+.idea/
+cmake-build-*/
+
+# Binarios y archivos temporales
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+*.log
+
+# Archivos de sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de configuración personal
+*.user
