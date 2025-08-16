@@ -11,3 +11,4 @@ add_executable(nombresEdades 01_Estructuras_Arreglos/practicas/02_arregoPunteros
 ## TAREAS
 add_executable(inventarioProductos 01_Estructuras_Arreglos/tareas/A1-E1_inventarioProductos.cpp)
 add_executable(registroPacientes 01_Estructuras_Arreglos/tareas/A1-E2_registroDePacientes.cpp)
+add_executable(reporteCalificaciones 01_Estructuras_Arreglos/tareas/T2-reporteCalificaciones.cpp)
