@@ -4,6 +4,10 @@ project(_c__DataStructures)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(_c__DataStructures main.cpp)
+
+# PROJECT
+add_executable(listaMenu 00_Project/listaMenu.cpp)
+
 # EJECUTABLES DE LA UNIDAD 1
 ## PRÁCTICAS
 add_executable(notasPromedio 01_Estructuras_Arreglos/practicas/01_arregloDinamico_notasPromedio.cpp)
