@@ -6,37 +6,37 @@ Mi objetivo es dejar documentado cada avance para reforzar mi conocimiento y cre
 
 >[!NOTE]
 > 
->✅ Objetivo del Repositorio
+> Objetivo del Repositorio
 >- Llevar un **registro de mi aprendizaje** en C++.
 >- Documentar cada **estructura de datos implementada**.
 >- Servir como **portafolio académico** para mi crecimiento como programador.
 
 ---
 
-## 📚 Contenido por Unidades
+## Contenido por Unidades
 
-### 1️⃣ Estructuras y Arreglos
+### Estructuras y Arreglos
 - Implementación de **estructuras** y **arreglos dinámicos**.
 - Uso de memoria para almacenar y manipular datos.
 - Solución de ejercicios prácticos planteados en clase.
 
-### 2️⃣ Listas, Pilas y Colas
+### Listas, Pilas y Colas
 - Creación de **listas enlazadas simples y dobles**.
 - Implementación de **pilas (Stacks)** y **colas (Queues)**.
 - Ejercicios de laboratorio para comprender su funcionamiento y aplicaciones.
 
-### 3️⃣ Árboles y Grafos
+### Árboles y Grafos
 - Uso de **estructuras no lineales** para resolver problemas informáticos.
 - Recorridos de **árboles binarios** (Preorden, Inorden, Postorden).
 - **Grafos dirigidos y no dirigidos**, recorridos BFS y DFS, e implementación de algoritmos básicos.
 
-### 4️⃣ Métodos de Ordenamiento y Búsqueda
+### Métodos de Ordenamiento y Búsqueda
 - Aplicación de **algoritmos de ordenamiento** (Burbuja, Inserción, Selección, MergeSort, QuickSort).
 - Implementación de **búsquedas lineales y binarias** para gestionar colecciones de datos.
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 c++DataStructures/
@@ -88,4 +88,4 @@ c++DataStructures/
 
 ---
 
-> ✍️ *Cada código incluirá sus propias notas y comentarios conforme avance el semestre.*  
+> *Cada código incluirá sus propias notas y comentarios conforme avance el semestre.*  
