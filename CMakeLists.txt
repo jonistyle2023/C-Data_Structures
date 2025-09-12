@@ -7,6 +7,7 @@ add_executable(_c__DataStructures main.cpp)
 
 # PROJECT
 add_executable(listaMenu 00_Project/listaMenu.cpp)
+add_executable(ColaAtencion 00_Project/ColaAtencion.cpp)
 
 # EJECUTABLES DE LA UNIDAD 1
 ## PRÁCTICAS
