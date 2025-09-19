@@ -23,5 +23,9 @@ add_executable(reporteCalificaciones 01_Estructuras_Arreglos/tareas/T2-reporteCa
 # EJECUTABLES DE LA UNIDAD 2
 ## PRÁCTICAS
 add_executable(pilasPares 02_Listas_pilas_Colas/practicas/pila_Pares.cpp)
+add_executable(LeEliminarPrimos 02_Listas_pilas_Colas/practicas/LE_EliminarPrimos.cpp)
+add_executable(LeEliminarPares 02_Listas_pilas_Colas/practicas/LE_EliminarPares.cpp)
+add_executable(LeEliminarDuplicados 02_Listas_pilas_Colas/practicas/LE_EliminarDuplicados.cpp)
+add_executable(pilaCaracteres 02_Listas_pilas_Colas/practicas/PI_pilaCaracteres.cpp)
 ## TAREAS
 add_executable(listasEnlazadasDobles 02_Listas_pilas_Colas/tareas/listas_dobles_enlazadas.cpp)

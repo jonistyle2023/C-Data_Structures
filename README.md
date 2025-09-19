@@ -4,26 +4,32 @@ Este repositorio refleja mi **progreso de aprendizaje en C++** enfocado en la im
 Cada carpeta contiene **prácticas realizadas en clase**, **tareas asignadas** y **apuntes** relacionados a los temas vistos durante el semestre.  
 Mi objetivo es dejar documentado cada avance para reforzar mi conocimiento y crear un repositorio que muestre mi evolución como programador.
 
->[!NOTE]
-> 
-> Objetivo del Repositorio
->- Llevar un **registro de mi aprendizaje** en C++.
->- Documentar cada **estructura de datos implementada**.
->- Servir como **portafolio académico** para mi crecimiento como programador.
-
 ---
 
 ## Contenido por Unidades
 
 ### Estructuras y Arreglos
-- Implementación de **estructuras** y **arreglos dinámicos**.
-- Uso de memoria para almacenar y manipular datos.
-- Solución de ejercicios prácticos planteados en clase.
+
+>[!NOTE]
+> 
+>- Implementación de **estructuras** y **arreglos dinámicos**.
+>- Uso de memoria para almacenar y manipular datos.
+>- Solución de ejercicios prácticos planteados en clase.
 
 ### Listas, Pilas y Colas
-- Creación de **listas enlazadas simples y dobles**.
-- Implementación de **pilas (Stacks)** y **colas (Queues)**.
-- Ejercicios de laboratorio para comprender su funcionamiento y aplicaciones.
+
+>[!NOTE]
+> 
+>- Creación de **listas enlazadas simples y dobles**.
+>- Implementación de **pilas (Stacks)** y **colas (Queues)**.
+>- Ejercicios de laboratorio para comprender su funcionamiento y aplicaciones.
+
+#### **Prácticas**
+- **LE_EliminarDuplicados**: Implementa una función que reciba una lista enlazada de números enteros y elimine todos los nodos que contengan números duplicados, dejando sola la primera aparición de cada número. La función debe retornar de nodos eliminados y mostrar la lista resultante.
+- **LE_EliminarPares**: Crea una función que reciba una lista enlazada de números enteros y elimine todos los nodos que contengan números pares. La función debe retornar la cantidad de nodos eliminados y mostrar la lista resultante.
+- **LE_EliminarPrimos**: Dada una lista enlazada de números enteros, eliminar todos los nodos que contengan números primos y retornar la cantidad de nodos eliminados.
+- **PI_pilaCaracteres**: Implementar una función que reciba una pila de caracteres y determine si los paréntesis están balanceados. Solo considerar '(' y ')'.
+- **pila_Pares**: Contador de núemros pares en una pila de enteros.
 
 ### Árboles y Grafos
 - Uso de **estructuras no lineales** para resolver problemas informáticos.
@@ -35,38 +41,6 @@ Mi objetivo es dejar documentado cada avance para reforzar mi conocimiento y cre
 - Implementación de **búsquedas lineales y binarias** para gestionar colecciones de datos.
 
 ---
-
-## Estructura del Repositorio
-
-```
-c++DataStructures/
-│
-├── 01_Estructuras_Arreglos/
-│ ├── practicas/
-│ ├── tareas/
-│ └── notas.md
-│
-├── 02_Listas_Pilas_Colas/
-│ ├── practicas/
-│ ├── tareas/
-│ └── notas.md
-│
-├── 03_Arboles_Grafos/
-│ ├── practicas/
-│ ├── tareas/
-│ └── notas.md
-│
-├── 04_Ordenamiento_Busqueda/
-│ ├── practicas/
-│ ├── tareas/
-│ └── notas.md
-│
-└── recursos/
-├── libros/
-├── apuntes_pdf/
-└── ejemplos_profesor/
-```
-
 
 - **practicas/** → Programas desarrollados durante las clases.
 - **tareas/** → Ejercicios asignados para reforzar los temas.
