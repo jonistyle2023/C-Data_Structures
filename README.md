@@ -25,11 +25,15 @@ Mi objetivo es dejar documentado cada avance para reforzar mi conocimiento y cre
 >- Ejercicios de laboratorio para comprender su funcionamiento y aplicaciones.
 
 #### **Prácticas**
-- **LE_EliminarDuplicados**: Implementa una función que reciba una lista enlazada de números enteros y elimine todos los nodos que contengan números duplicados, dejando sola la primera aparición de cada número. La función debe retornar de nodos eliminados y mostrar la lista resultante.
-- **LE_EliminarPares**: Crea una función que reciba una lista enlazada de números enteros y elimine todos los nodos que contengan números pares. La función debe retornar la cantidad de nodos eliminados y mostrar la lista resultante.
-- **LE_EliminarPrimos**: Dada una lista enlazada de números enteros, eliminar todos los nodos que contengan números primos y retornar la cantidad de nodos eliminados.
-- **PI_pilaCaracteres**: Implementar una función que reciba una pila de caracteres y determine si los paréntesis están balanceados. Solo considerar '(' y ')'.
-- **pila_Pares**: Contador de núemros pares en una pila de enteros.
+- **CO_BancoAtencion:** Simular un proceso de atención en un banco donde hay 2 colas: una para clientes regulares y otra para clientes prioritarios (mayores de 65 años). Atender siempre 1 prioritario por cada 2 regulares.
+- **CO_ImpresionDocumentos:** Simular el proceso de impresión de documentos con dos colas: una para documentos de alta prioridad (urgentes) y otra para prioridad normal. Se debe atender siempre 1 documento urgente por cada 3 documentos normales. Si no hay documentos normales, se atienden urgentes y viceversa.
+- **LE_EliminarDuplicados:** Implementa una función que reciba una lista enlazada de números enteros y elimine todos los nodos que contengan números duplicados, dejando sola la primera aparición de cada número. La función debe retornar de nodos eliminados y mostrar la lista resultante.
+- **LE_EliminarPares:** Crea una función que reciba una lista enlazada de números enteros y elimine todos los nodos que contengan números pares. La función debe retornar la cantidad de nodos eliminados y mostrar la lista resultante.
+- **LE_EliminarPrimos:** Dada una lista enlazada de números enteros, eliminar todos los nodos que contengan números primos y retornar la cantidad de nodos eliminados.
+- **LE_InvertirNodos:** Dada una lista enlazada de números enteros, invertir los nodos de dos en dos. Si la cantidad de nodos es impar, el último nodo permanece en su posición.
+- **PI_EliminarDuplicados:** Implementar una función que reciba una pila de números enteros y elimine todos los elementos duplicados consecutivos. La pila debe quedar con elementos únicos consecutivos.
+- **PI_PilaCaracteres:** Implementar una función que reciba una pila de caracteres y determine si los paréntesis están balanceados. Solo considerar '(' y ')'.
+- **PI_PilaPares:** Contador de núemros pares en una pila de enteros.
 
 ### Árboles y Grafos
 - Uso de **estructuras no lineales** para resolver problemas informáticos.
