@@ -31,5 +31,11 @@ add_executable(BancoAtencion 02_Listas_pilas_Colas/practicas/CO_BancoAtencion.cp
 add_executable(nvertirNodos 02_Listas_pilas_Colas/practicas/LE_InvertirNodos.cpp)
 add_executable(PiEliminarDuplicados 02_Listas_pilas_Colas/practicas/PI_EliminarDuplicados.cpp)
 add_executable(ColaImpresionDocumentos 02_Listas_pilas_Colas/practicas/CO_ImpresionDocumentos.cpp)
+add_executable(LE_EliminarNodos 02_Listas_pilas_Colas/practicas/LE_EliminarNodos.cpp)
+add_executable(PI_PilaEnteros 02_Listas_pilas_Colas/practicas/PI_PilaEnteros.cpp)
+add_executable(CO_SistemaTurnos 02_Listas_pilas_Colas/practicas/CO_SistemaTurnos.cpp)
+add_executable(PI_PilaParesSeparados 02_Listas_pilas_Colas/practicas/PI_PilaParesSeparados.cpp)
+add_executable(CO_SistemaPedidos 02_Listas_pilas_Colas/practicas/CO_SistemaPedidos.cpp)
+add_executable(CO_SistemaAtencion 02_Listas_pilas_Colas/practicas/CO_SistemaAtencion.cpp)
 ## TAREAS
 add_executable(listasEnlazadasDobles 02_Listas_pilas_Colas/tareas/listas_dobles_enlazadas.cpp)
