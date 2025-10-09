@@ -39,3 +39,8 @@ add_executable(CO_SistemaPedidos 02_Listas_pilas_Colas/practicas/CO_SistemaPedid
 add_executable(CO_SistemaAtencion 02_Listas_pilas_Colas/practicas/CO_SistemaAtencion.cpp)
 ## TAREAS
 add_executable(listasEnlazadasDobles 02_Listas_pilas_Colas/tareas/listas_dobles_enlazadas.cpp)
+
+# EJECUTABLES DE LA UNIDAD 3
+## PRÁCTICAS
+## TAREAS
+add_executable(RecorridoArbol 03_Arboles_Grafos/tareas/Ejercicio_Recorrido_Arbol.cpp)
