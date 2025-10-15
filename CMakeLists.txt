@@ -42,5 +42,6 @@ add_executable(listasEnlazadasDobles 02_Listas_pilas_Colas/tareas/listas_dobles_
 
 # EJECUTABLES DE LA UNIDAD 3
 ## PRÁCTICAS
+add_executable(RedSocial 03_Arboles_Grafos/practicas/Grafos_RedSocial.cpp)
 ## TAREAS
 add_executable(RecorridoArbol 03_Arboles_Grafos/tareas/Ejercicio_Recorrido_Arbol.cpp)
